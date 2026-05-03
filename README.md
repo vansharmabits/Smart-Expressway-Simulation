@@ -57,3 +57,6 @@ Run:
 - C++
 - STL
 - Graph Algorithms
+
+## 📸 Output
+![Output](screenshot.png)
