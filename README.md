@@ -32,22 +32,23 @@ Run:
 ---
 
 ## 👥 Team Members
-Vansh Sharma (Team Leader)
-Vedanshi Tyagi 
-Twinkle verma 
-Utkarsh gupta 
-Syed Ali Haider 
-Tanushri Mishra
-Tulika Singh
-Vishal Yadav 
-Vishal Kumar Pal
-Vineet Verma 
-Anurag Shukla
-Yadubeer Singh 
-Veer singh 
-Waquas moinuddin
-Shaurya Kumar 
-Suraj Sharma
+
+- Vansh Sharma (Team Leader)
+- Vedanshi Tyagi
+- Twinkle Verma
+- Utkarsh Gupta
+- Syed Ali Haider
+- Tanushri Mishra
+- Tulika Singh
+- Vishal Yadav
+- Vishal Kumar Pal
+- Vineet Verma
+- Anurag Shukla
+- Yadubeer Singh
+- Veer Singh
+- Waquas Moinuddin
+- Shaurya Kumar
+- Suraj Sharma
 
 
 ---
